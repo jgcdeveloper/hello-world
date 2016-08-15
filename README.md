@@ -2,7 +2,7 @@
 As part of my first *Bloc.io* assignment, I am to write a message using some simple markdowns. This message is in response to that assignment.
 
 ## My Goal with Joining *Bloc.io*
-To be frank, I hope to use *Bloc.io* as a jumping point to a career as a software developer, or even software engineer (although I am not sure if I can legally use that title in Canada...)
+To be frank, I hope to use *Bloc.io* as a jumping point to a career as a software developer, or even software engineer (although I am not sure if I can legally use that title in Canada)
 
 ## My Inspirations in Life
 My current inspirations in life include:
